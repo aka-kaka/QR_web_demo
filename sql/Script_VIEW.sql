@@ -42,7 +42,7 @@ CREATE VIEW View_Calculate_Pred AS SELECT
 FROM Calculation as clc LEFT JOIN Groups as g ON g.key_groups = clc.id_group
                           LEFT JOIN Success_Fee_Type AS sft ON sft.key_success_fee_type = g.id_success_fee_type
                           LEFT JOIN Currency as cur ON cur.key_currency = g.id_success_fee_currency
-                          FULL JOIN View_Nate as vn ON vn.dates = clc.dates                     
+                          LEFT JOIN View_Nate as vn ON vn.dates = clc.dates                     
 WHERE clc.dates IS NOT NULL;
 
 
