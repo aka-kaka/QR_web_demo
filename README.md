@@ -1,2 +1,2 @@
 # QR_web_demo
-api в демо нет
+https://qrwebdemo-ebfzdjgtw6qwoyypdaxab9.streamlit.app/
