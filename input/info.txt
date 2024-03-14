@@ -1,0 +1,55 @@
+First name 
+Last Name
+Middle Name ,patronymic
+Date of birth according to the passport
+Passport series 
+Passport number 
+Place of passport issue 
+Date of passport issue 
+Code of the division of the passport issuing body
+Client's place of birth 
+Zip code at the place of registered residence
+Country of the place of registered residence
+Region of the place of registered residence
+City of the place of registered residence
+Street of the place of registered residence
+House of the place of registered residence
+Building of the place of registered residence
+Apartment of the place of registered residence
+Client's TIN
+Client's contact phone number
+Client's e-mail
+Client's bank card account
+Card issuing Bank
+Issuing Bank's BIC
+Deposited amount
+Method of deposit (delete incorrect)
+
+
+
+Имя
+Отчество
+Фамилия
+Дата рождения
+Серия паспорта
+Номер паспорта
+Кем выдан паспорт
+Дата выдача паспорта
+Код подразделения
+Место рождения
+Почтовый индекс (по месту регистрации)
+Страна проживания (по месту регистрации)
+Область
+Город
+Улица
+Номер дома
+Строение / корпус / владение и т.п.
+Квартира
+ИНН
+Номер телефона
+Контактный email
+Номер банковского счета
+Название банка
+БИК 
+Сумма депонируемых средств, валюта
+Метод передачи активов в управление (удалите ненужное)
